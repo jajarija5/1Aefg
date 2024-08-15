@@ -1,0 +1,21 @@
+#Inter{
+    font: small;
+    font-style: italic;
+    align-items: center;
+    
+}
+#Lamp{
+    font-size: larger;
+    border-radius: 10px;
+}
+#Bora{
+    font-style: oblique;
+}
+#Final{
+    border-radius: 8px;
+}
+#lá{
+    background-color: blue;
+    border-radius: 8px;
+    color: aliceblue;
+}
